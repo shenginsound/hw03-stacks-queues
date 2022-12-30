@@ -1,4 +1,4 @@
-# HW Instructions
+# Homework 03 - Stacks and Queues - Instructions
 
 👉🏽 **Task**
 
