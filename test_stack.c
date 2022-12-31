@@ -143,14 +143,15 @@ int unitTest5(int status)
     return passed;
 }
 
-// NOTE: you may want to comment out tests and turn them on as you develop! 
-// TODO: Add tests here
+// TODO: Add more tests here
+// add your own, and uncomment the provided tests as
+// things are implemented
 int (*unitTests[])(int) = {
-    unitTest1,
-    unitTest2,
-    unitTest3,
-    unitTest4,
-    unitTest5,
+//    unitTest1,
+//    unitTest2,
+//    unitTest3,
+//    unitTest4,
+//    unitTest5,
     NULL};
 
 // ====================================================
