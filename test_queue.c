@@ -1,3 +1,12 @@
+/*  ========== H03 - Personal Queue Implementation ============
+ *
+ *   Student: UPDATE
+ *   Semester: UPDATE
+ *
+ * A simple queue unit-tst implementation 
+ *
+ */
+
 // Note: This is not an exhaustive test suite, but gives you the idea
 //       of some tests you might want to create.
 //       Adding more tests and slowly making them more and more complicated
@@ -7,11 +16,7 @@
 //
 // Run with: ./queue_test
 //
-// This is a way to test your code.
-//
-// Include parts of the C Standard Library
-// These have been written by some other really
-// smart engineers.
+
 #include "myqueue.h"
 
 #include <stdio.h> // For IO operations

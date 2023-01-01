@@ -1,3 +1,12 @@
+/*  ========== H03 - Personal Queue Implementation ============
+ *
+ *   Student: UPDATE
+ *   Semester: UPDATE
+ *
+ * A simple queue unit-tst implementation
+ *
+ */
+
 #include "mystack.h"
 // Note that we are locating this file
 // within the same directory, so we use quotations
