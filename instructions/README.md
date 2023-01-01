@@ -115,9 +115,9 @@ Double check instructions by going to: [HW 3 - Instructions]
 <!-- link definitions -->
 
 [Stack]: https://upload.wikimedia.org/wikipedia/commons/b/b4/Lifo_stack.png
-[myqueue.h]: (../myqueue.h)
-[test_queue.c]: (../test_queue.c)
-[mystack.h]: (../mystack.h)
-[test_stack.c]: (../test_stack.c)
-[README.md]: (../README.md)
-[HW 3 - Instructions]: (https://github.com/Spring23-CS5008-BOS-Lionelle/hw03-stacks-queues/tree/main/instructions)
+[myqueue.h]: ../myqueue.h
+[test_queue.c]: ../test_queue.c
+[mystack.h]: ../mystack.h
+[test_stack.c]: ../test_stack.c
+[README.md]: ../README.md
+[HW 3 - Instructions]: https://github.com/Spring23-CS5008-BOS-Lionelle/hw03-stacks-queues/tree/main/instructions
