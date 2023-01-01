@@ -1,3 +1,4 @@
+
 /*  ========== H03 - Personal Queue Implementation ============
  *
  *   Student: UPDATE
@@ -8,7 +9,6 @@
  */
 #ifndef MYQUEUE_H
 #define MYQUEUE_H
-
 
 #include <stdlib.h> // for malloc/free
 
@@ -41,7 +41,7 @@ queue_t *create_queue(unsigned int _capacity)
 
 /** Check if the queue is empty
  *  Returns 1 if true (The queue is completely empty)
- * Returns 0 if false (the queue has at least one element enqueued) 
+ * Returns 0 if false (the queue has at least one element enqueued)
  **/
 int queue_empty(queue_t *q)
 {
@@ -49,7 +49,6 @@ int queue_empty(queue_t *q)
 
     return NULL;
 }
-
 
 /** Check if the queue is Full
  *  Returns 1 if true (The queue is completely full)
@@ -70,14 +69,14 @@ int queue_enqueue(queue_t *q, int item)
 {
     // TODO: Implement me!
 
-    return NULL; 
+    return NULL;
 }
 
 /** Dequeue an item
  *  Returns the item at the front of the queue and
  *  removes an item from the queue.
  *  Removing an item from the empty queue should
- *  print to stderr, and return the EXIT_FAILURE value 
+ *  print to stderr, and return the EXIT_FAILURE value
  *   Example:
      fputs("no items to dequeue!\n", stderr);
      return EXIT_FAILURE
