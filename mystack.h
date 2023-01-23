@@ -1,7 +1,7 @@
 /*  ========== H03 - Personal Stack Implementation ============
  *
- *   Student: UPDATE
- *   Semester: UPDATE
+ *   Student: chia sheng cheng
+ *   Semester: Spring 2023
  *
  * A simple stack implementation to hold int values.
  *
